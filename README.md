@@ -1,4 +1,4 @@
-# Codependal
+# Frontend Code Editor
 <p align="center">
   <a href="https://autocode.com/app/abhay557/codependal/">
     <img src="/readme/thumbnail.png" alt="Logo" width="86" height="86"/>
